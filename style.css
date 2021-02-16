@@ -1,0 +1,42 @@
+ h1 {
+         color: brown;
+}
+
+*{
+         border: solid;
+}
+
+.header{
+    background-color:#aafcde;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h2,p{
+    background-color: #f3ca71;
+    text-align:center;
+}
+
+.item{
+    background-color: rgb(231, 97, 87);
+}
+
+.footer{
+    background-color:greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container{
+    background-color: #808080;
+}
+
+body{
+    background-color: khaki;
+}
